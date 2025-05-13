@@ -26,7 +26,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 """
-/*
+
 <html>
 
 <head>
@@ -176,7 +176,7 @@ Publish the website in the given URL.
 </body>
 
 </html>
-*/
+
 """
 ## OUTPUT:
 
