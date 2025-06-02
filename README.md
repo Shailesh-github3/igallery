@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-"""
+```
 
 <html>
 
@@ -177,7 +177,7 @@ Publish the website in the given URL.
 
 </html>
 
-"""
+```
 ## OUTPUT:
 
 ![Exp5](https://github.com/user-attachments/assets/ab5249ff-1251-4d8a-8fb5-e773b1229553)
